@@ -1,3 +1,5 @@
 flask
 celery~=5.0.5
 flask_mail
+flask-mail
+redis
